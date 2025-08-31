@@ -1,0 +1,504 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 15 Pro Max",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "price": 1299.99,
+      "description": "The iPhone 15 Pro Max is Apple's most advanced smartphone, featuring a groundbreaking A17 Pro chip and a robust yet lightweight titanium design. This combination delivers exceptional performance, making it ideal for demanding tasks like console-grade gaming and professional-level video editing.",
+      "image_url": "https://images.pexels.com/photos/14666017/pexels-photo-14666017.jpeg",
+      "brand": "Apple"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S23 Ultra",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "price": 1199.99,
+      "description": "The Samsung Galaxy S23 Ultra stands out as a flagship smartphone, renowned for its incredible 200MP camera and the convenience of an included S Pen. At its core, the S23 Ultra is powered by a custom-optimized Qualcomm Snapdragon 8 Gen 2 Mobile Platform for Galaxy, delivering exceptional speed and efficiency for everything from intense gaming to seamless multitasking.",
+      "image_url": "https://images.samsung.com/pk/smartphones/galaxy-s23-ultra/buy/kv_group_PC_v2.jpg?imbypass=true",
+      "brand": "Samsung"
+    },
+    {
+      "id": 3,
+      "name": "Men's Dress Shirt",
+      "category": "Clothing",
+      "subcategory": "Shirts",
+      "price": 39.99,
+      "description": "The Calvin Klein Men's Dress Shirt exemplifies sophisticated style and comfort, crafted from premium cotton for a refined feel and superior drape. This shirt is designed to be a versatile staple in any gentleman's wardrobe, suitable for both formal occasions and smart-casual ensembles.",
+      "image_url": "https://images.pexels.com/photos/9558699/pexels-photo-9558699.jpeg",
+      "brand": "Calvin Klein"
+    },
+    {
+      "id": 4,
+      "name": "Women's Skinny Jeans",
+      "category": "Clothing",
+      "subcategory": "Pants",
+      "price": 49.95,
+      "description": "The Levi's Women's Skinny Jeans are a classic for a reason, offering a flattering fit and all-day comfort thanks to their stretch denim construction. Levi's is synonymous with quality denim, and these skinny jeans are designed to hug your curves from the hip to the ankle, creating a sleek and modern silhouette.",
+      "image_url": "https://images.unsplash.com/photo-1542272604-787c3835535d",
+      "brand": "Levi's"
+    },
+    {
+      "id": 5,
+      "name": "MacBook Pro 16-inch",
+      "category": "Electronics",
+      "subcategory": "Laptops",
+      "price": 2499.99,
+      "description": "The MacBook Pro 16-inch is a professional-grade laptop engineered for peak performance, powered by Apple's cutting-edge M2 Pro chip and featuring a breathtaking Liquid Retina XDR display. At its heart, the M2 Pro chip redefines what's possible in a pro laptop, offering a significant leap in CPU, GPU, and Neural Engine performance compared to previous generations.",
+      "image_url": "https://images.pexels.com/photos/18105/pexels-photo.jpg",
+      "brand": "Apple"
+    },
+    {
+      "id": 6,
+      "name": "Sony WH-1000XM5 Headphones",
+      "category": "Electronics",
+      "subcategory": "Audio",
+      "price": 349.99,
+      "description": "The Sony WH-1000XM5 headphones are widely recognized for their industry-leading noise cancellation, setting a new benchmark for immersive audio experiences.",
+      "image_url": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df",
+      "brand": "Sony"
+    },
+    {
+      "id": 7,
+      "name": "Men's Polo Shirt",
+      "category": "Clothing",
+      "subcategory": "Shirts",
+      "price": 29.99,
+      "description": "The Ralph Lauren Men's Polo Shirt is an iconic garment, offering a blend of classic American style and modern functionality, particularly through its moisture-wicking properties. While traditionally known for its pique cotton fabric, Ralph Lauren's performance or active fit polo shirts are often crafted from advanced fabric blends, typically a combination of cotton and synthetic fibers like polyester or a technical jersey.",
+      "image_url": "https://images.pexels.com/photos/769732/pexels-photo-769732.jpeg",
+      "brand": "Ralph Lauren"
+    },
+    {
+      "id": 8,
+      "name": "Samsung 4K Smart TV",
+      "category": "Electronics",
+      "subcategory": "Televisions",
+      "price": 599.99,
+      "description": "The Samsung 4K Smart TV offers an immersive home entertainment experience with its 55-inch Crystal UHD display and High Dynamic Range (HDR) technology. This television brings your favorite content to life with stunning clarity and vibrant colors, boasting four times the pixels of Full HD for incredibly sharp and crisp images, allowing you to discern even the finest details.",
+      "image_url": "https://images.unsplash.com/photo-1593784991095-a205069470b6",
+      "brand": "Samsung"
+    },
+    {
+      "id": 9,
+      "name": "Women's Summer Dress",
+      "category": "Clothing",
+      "subcategory": "Dresses",
+      "price": 45.50,
+      "description": "The Zara Women's Summer Dress embodies effortless chic and comfort, featuring a lightweight chiffon floral design that's perfect for warm weather. Chiffon is a sheer, lightweight fabric with a delicate drape, typically made from silk or synthetic fibers like polyester. Its airy quality makes it ideal for summer wear, allowing for breathability and a graceful flow with movement.",
+      "image_url": "https://images.pexels.com/photos/1021693/pexels-photo-1021693.jpeg",
+      "brand": "Zara"
+    },
+    {
+      "id": 10,
+      "name": "Nike Running Shorts",
+      "category": "Clothing",
+      "subcategory": "Pants",
+      "price": 24.99,
+      "description": "The Nike Running Shorts are engineered for performance and comfort, designed with quick-dry athletic fabric to support runners during their workouts. Nike is a leader in athletic apparel, and their running shorts are typically constructed from lightweight, high-performance synthetic materials such as polyester, often blended with spandex (elastane) for added stretch.",
+      "image_url": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea",
+      "brand": "Nike"
+    },
+    {
+      "id": 11,
+      "name": "Ninja Air Fryer",
+      "category": "Home",
+      "subcategory": "Kitchen",
+      "price": 99.95,
+      "description": "Digital air fryer with 7 presets.",
+      "image_url": "https://images.pexels.com/photos/6804584/pexels-photo-6804584.jpeg",
+      "brand": "Ninja"
+    },
+    {
+      "id": 12,
+      "name": "Anker Wireless Charger",
+      "category": "Electronics",
+      "subcategory": "Accessories",
+      "price": 19.99,
+      "description": "10W fast charging pad.",
+      "image_url": "https://images.unsplash.com/photo-1585771724684-38269d6639fd",
+      "brand": "Anker"
+    },
+    {
+      "id": 13,
+      "name": "Leather Wallet",
+      "category": "Accessories",
+      "subcategory": "Wallets",
+      "price": 59.99,
+      "description": "Genuine leather RFID wallet.",
+      "image_url": "https://images.pexels.com/photos/290857/pexels-photo-290857.jpeg",
+      "brand": "Fossil"
+    },
+    {
+      "id": 14,
+      "name": "Fitbit Charge 5",
+      "category": "Electronics",
+      "subcategory": "Wearables",
+      "price": 129.99,
+      "description": "Heart rate and sleep tracker.",
+      "image_url": "https://images.unsplash.com/photo-1631729371254-42c2892f0e6e",
+      "brand": "Fitbit"
+    },
+    {
+      "id": 15,
+      "name": "Cotton T-Shirt Pack",
+      "category": "Clothing",
+      "subcategory": "Shirts",
+      "price": 22.99,
+      "description": "3-pack crewneck t-shirts.",
+      "image_url": "https://images.pexels.com/photos/9558601/pexels-photo-9558601.jpeg",
+      "brand": "Hanes"
+    },
+    {
+      "id": 16,
+      "name": "JBL Flip 6 Speaker",
+      "category": "Electronics",
+      "subcategory": "Audio",
+      "price": 79.99,
+      "description": "Portable waterproof speaker.",
+      "image_url": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb",
+      "brand": "JBL"
+    },
+    {
+      "id": 17,
+      "name": "Men's Oxford Shoes",
+      "category": "Footwear",
+      "subcategory": "Shoes",
+      "price": 89.99,
+      "description": "Genuine leather dress shoes.",
+      "image_url": "https://images.pexels.com/photos/1904769/pexels-photo-1904769.jpeg",
+      "brand": "Cole Haan"
+    },
+    {
+      "id": 18,
+      "name": "Electric Toothbrush",
+      "category": "Health",
+      "subcategory": "Personal Care",
+      "price": 49.99,
+      "description": "Sonic toothbrush with 3 modes.",
+      "image_url": "https://images.unsplash.com/photo-1609505848912-b7c3b8b4beda",
+      "brand": "Oral-B"
+    },
+    {
+      "id": 19,
+      "name": "ASICS Running Shoes",
+      "category": "Footwear",
+      "subcategory": "Shoes",
+      "price": 119.99,
+      "description": "Lightweight with cushioning.",
+      "image_url": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg",
+      "brand": "ASICS"
+    },
+    {
+      "id": 20,
+      "name": "SwissGear Backpack",
+      "category": "Accessories",
+      "subcategory": "Bags",
+      "price": 39.99,
+      "description": "Laptop backpack with USB port.",
+      "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62",
+      "brand": "SwissGear"
+    },
+    {
+      "id": 21,
+      "name": "Cuisinart Coffee Maker",
+      "category": "Home",
+      "subcategory": "Kitchen",
+      "price": 79.99,
+      "description": "12-cup programmable brewer.",
+      "image_url": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg",
+      "brand": "Cuisinart"
+    },
+    {
+      "id": 22,
+      "name": "Galaxy Buds 2 Pro",
+      "category": "Electronics",
+      "subcategory": "Audio",
+      "price": 129.99,
+      "description": "True wireless ANC earbuds.",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRln1fM0-sRw9LJ4-ZlfkiZeguZ3HaMOY2DAQ&s",
+      "brand": "Samsung"
+    },
+    {
+      "id": 23,
+      "name": "Winter Jacket",
+      "category": "Clothing",
+      "subcategory": "Outerwear",
+      "price": 149.99,
+      "description": "Waterproof insulated jacket.",
+      "image_url": "https://images.pexels.com/photos/7679725/pexels-photo-7679725.jpeg",
+      "brand": "The North Face"
+    },
+    {
+      "id": 24,
+      "name": "Nest Thermostat",
+      "category": "Home",
+      "subcategory": "Smart Home",
+      "price": 199.99,
+      "description": "Learning thermostat.",
+      "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df",
+      "brand": "Google"
+    },
+    {
+      "id": 25,
+      "name": "Yoga Mat",
+      "category": "Sports",
+      "subcategory": "Fitness",
+      "price": 29.99,
+      "description": "Non-slip with carrying strap.",
+      "image_url": "https://images.pexels.com/photos/221247/pexels-photo-221247.jpeg",
+      "brand": "Gaiam"
+    },
+    {
+      "id": 26,
+      "name": "Seagate 2TB HDD",
+      "category": "Electronics",
+      "subcategory": "Storage",
+      "price": 89.99,
+      "description": "Portable USB 3.0 hard drive.",
+      "image_url": "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd",
+      "brand": "Seagate"
+    },
+    {
+      "id": 27,
+      "name": "Leather Handbag",
+      "category": "Accessories",
+      "subcategory": "Bags",
+      "price": 159.99,
+      "description": "Designer tote bag.",
+      "image_url": "https://images.pexels.com/photos/2905238/pexels-photo-2905238.jpeg",
+      "brand": "Michael Kors"
+    },
+    {
+      "id": 28,
+      "name": "GoPro Hero 11",
+      "category": "Electronics",
+      "subcategory": "Cameras",
+      "price": 299.99,
+      "description": "4K waterproof action cam.",
+      "image_url": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633",
+      "brand": "GoPro"
+    },
+    {
+      "id": 29,
+      "name": "Men's Sneakers",
+      "category": "Footwear",
+      "subcategory": "Shoes",
+      "price": 69.99,
+      "description": "Casual everyday sneakers.",
+      "image_url": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg",
+      "brand": "Skechers"
+    },
+    {
+      "id": 30,
+      "name": "Roomba Robot Vacuum",
+      "category": "Home",
+      "subcategory": "Appliances",
+      "price": 349.99,
+      "description": "Self-charging smart vacuum.",
+      "image_url": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92",
+      "brand": "iRobot"
+    },
+    {
+      "id": 31,
+      "name": "Razer Basilisk Gaming Mouse",
+      "category": "Electronics",
+      "subcategory": "Computer",
+      "price": 69.99,
+      "description": "11 programmable buttons, 20K DPI, RGB lighting",
+      "image_url": "https://images.unsplash.com/photo-1591488320449-011701bb6704",
+      "brand": "Razer"
+    },
+    {
+      "id": 32,
+      "name": "Lululemon Yoga Pants",
+      "category": "Clothing",
+      "subcategory": "Pants",
+      "price": 98.00,
+      "description": "High-rise, sweat-wicking, four-way stretch",
+      "image_url": "https://images.pexels.com/photos/6634370/pexels-photo-6634370.jpeg",
+      "brand": "Lululemon"
+    },
+    {
+      "id": 33,
+      "name": "Hamilton Beach Electric Kettle",
+      "category": "Home",
+      "subcategory": "Kitchen",
+      "price": 29.99,
+      "description": "1.7L capacity, auto shutoff, boil-dry protection",
+      "image_url": "https://hamiltonbeach.com/media/products/40989.jpg",
+      "brand": "Hamilton Beach"
+    },
+    {
+      "id": 34,
+      "name": "Logitech Wireless Combo",
+      "category": "Electronics",
+      "subcategory": "Computer",
+      "price": 49.99,
+      "description": "Keyboard and mouse, 2.4GHz wireless, 3-year battery",
+      "image_url": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg",
+      "brand": "Logitech"
+    },
+    {
+      "id": 35,
+      "name": "Ray-Ban Aviator Sunglasses",
+      "category": "Accessories",
+      "subcategory": "Eyewear",
+      "price": 153.00,
+      "description": "Classic aviator, polarized lenses, UV protection",
+      "image_url": "https://images.unsplash.com/photo-1511499767150-a48a237f0083",
+      "brand": "Ray-Ban"
+    },
+    {
+      "id": 36,
+      "name": "Anker PowerCore 10000",
+      "category": "Electronics",
+      "subcategory": "Accessories",
+      "price": 29.99,
+      "description": "Compact 10000mAh portable charger, 18W fast charging",
+      "image_url": "https://images.pexels.com/photos/1275929/pexels-photo-1275929.jpeg",
+      "brand": "Anker"
+    },
+    {
+      "id": 37,
+      "name": "Women's Denim Jacket",
+      "category": "Clothing",
+      "subcategory": "Outerwear",
+      "price": 59.99,
+      "description": "Classic fit, stretch denim, machine wash",
+      "image_url": "https://m.media-amazon.com/images/I/81c91uPl3eS._AC_SL1500_.jpg",
+      "brand": "Lee"
+    },
+    {
+      "id": 38,
+      "name": "Ring Video Doorbell",
+      "category": "Home",
+      "subcategory": "Smart Home",
+      "price": 99.99,
+      "description": "1080p HD video, two-way talk, motion detection",
+      "image_url": "https://images.pexels.com/photos/5626855/pexels-photo-5626855.jpeg",
+      "brand": "Ring"
+    },
+    {
+      "id": 39,
+      "name": "Bowflex SelectTech Dumbbells",
+      "category": "Sports",
+      "subcategory": "Fitness",
+      "price": 399.99,
+      "description": "Adjustable from 5-52.5 lbs, space-saving design",
+      "image_url": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b",
+      "brand": "Bowflex"
+    },
+    {
+      "id": 40,
+      "name": "Satechi USB-C Hub",
+      "category": "Electronics",
+      "subcategory": "Computer",
+      "price": 59.99,
+      "description": "7-in-1 with 4K HDMI, USB 3.0, SD card reader",
+      "image_url": "https://images.pexels.com/photos/3825568/pexels-photo-3825568.jpeg",
+      "brand": "Satechi"
+    },
+    {
+      "id": 41,
+      "name": "Women's Silk Blouse",
+      "category": "Clothing",
+      "subcategory": "Shirts",
+      "price": 79.99,
+      "description": "100% silk, button-down collar, dry clean only",
+      "image_url": "https://images.unsplash.com/photo-1551232864-3f0890e580d9",
+      "brand": "Ann Taylor"
+    },
+    {
+      "id": 42,
+      "name": "Honeywell Air Purifier",
+      "category": "Home",
+      "subcategory": "Appliances",
+      "price": 249.99,
+      "description": "HEPA filter, captures 99.97% of particles",
+      "image_url": "https://images.pexels.com/photos/3962285/pexels-photo-3962285.jpeg",
+      "brand": "Honeywell"
+    },
+    {
+      "id": 43,
+      "name": "Men's Cargo Shorts",
+      "category": "Clothing",
+      "subcategory": "Pants",
+      "price": 34.99,
+      "description": "Durable cotton blend, multiple utility pockets",
+      "image_url": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea",
+      "brand": "Columbia"
+    },
+    {
+      "id": 44,
+      "name": "SteelSeries Arctis Headset",
+      "category": "Electronics",
+      "subcategory": "Audio",
+      "price": 149.99,
+      "description": "Lossless audio, ClearCast mic, 20-hour battery",
+      "image_url": "https://images.pexels.com/photos/3945667/pexels-photo-3945667.jpeg",
+      "brand": "SteelSeries"
+    },
+    {
+      "id": 45,
+      "name": "Hydro Flask Water Bottle",
+      "category": "Home",
+      "subcategory": "Kitchen",
+      "price": 44.95,
+      "description": "32oz, vacuum insulated, keeps cold 24 hours",
+      "image_url": "https://images.unsplash.com/photo-1602143407151-7111542de6e8",
+      "brand": "Hydro Flask"
+    },
+    {
+      "id": 46,
+      "name": "Men's Leather Belt",
+      "category": "Accessories",
+      "subcategory": "Belts",
+      "price": 45.99,
+      "description": "Genuine leather, stainless steel buckle, 1.5\" width",
+      "image_url": "https://images.pexels.com/photos/290857/pexels-photo-290857.jpeg",
+      "brand": "Tommy Hilfiger"
+    },
+    {
+      "id": 47,
+      "name": "NutriBullet Blender",
+      "category": "Home",
+      "subcategory": "Kitchen",
+      "price": 79.99,
+      "description": "900W motor, includes 2 cups, dishwasher safe",
+      "image_url": "https://images.unsplash.com/photo-1571167366136-b57e07761625",
+      "brand": "NutriBullet"
+    },
+    {
+      "id": 48,
+      "name": "Women's Comfort Sandals",
+      "category": "Footwear",
+      "subcategory": "Shoes",
+      "price": 49.99,
+      "description": "Arch support, cushioned footbed, adjustable straps",
+      "image_url": "https://images.pexels.com/photos/292999/pexels-photo-292999.jpeg",
+      "brand": "Teva"
+    },
+    {
+      "id": 49,
+      "name": "TP-Link Smart Plug",
+      "category": "Home",
+      "subcategory": "Smart Home",
+      "price": 19.99,
+      "description": "WiFi enabled, works with Alexa/Google Assistant",
+      "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df",
+      "brand": "TP-Link"
+    },
+    {
+      "id": 50,
+      "name": "Seiko Automatic Watch",
+      "category": "Accessories",
+      "subcategory": "Watches",
+      "price": 299.99,
+      "description": "Japanese automatic movement, sapphire crystal",
+      "image_url": "https://images.pexels.com/photos/125779/pexels-photo-125779.jpeg",
+      "brand": "Seiko"
+    }
+  ]
+}
