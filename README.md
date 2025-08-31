@@ -1,12 +1,60 @@
-# React + Vite
+# E_commerce-website
+Frontend project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Cart Genie
 
-Currently, two official plugins are available:
+A React-based e-commerce frontend application with shopping cart functionality and product browsing.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Product catalog with 50+ items across multiple categories
+- Shopping cart with add/remove functionality
+- Product filtering by subcategory
+- Responsive design for all devices
+- User authentication pages
+- Contact and blog sections
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- React 18 with Hooks
+- React Router DOM
+- Context API for state management
+- Custom CSS
+
+## Installation
+
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Start development server: `npm run dev`
+4. Open `http://localhost:3000`
+
+## Project Structure
+
+```
+src/
+├── Components/     # Reusable components (Card, CartModal, Navbar, etc.)
+├── Context/        # CartContext for global state
+├── Data/          # ProductsData.json
+├── Pages/         # Route components (Home, Products, Blog, etc.)
+├── App.jsx        # Main app component
+└── App.css        # Styling
+```
+
+## Key Components
+
+- **CartContext**: Global cart state management
+- **Card**: Product display component with cart functionality  
+- **CartModal**: Shopping cart overlay with order confirmation
+- **Productsnav**: Category filtering navigation
+
+## Pages
+
+- **Home**: Hero banner and featured products
+- **Products**: Full product catalog with pagination
+- **Blog**: Product showcase with descriptions
+- **Contact**: Support information and contact details
+- **Authentication**: Sign up and sign in forms
+  
+## Clone the Repository
+
+- git clone https://github.com/Muhammad-Usman047/E_commerce-website.git
